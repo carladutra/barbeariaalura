@@ -1,9 +1,11 @@
+
 body{
     background-color: white;
 }
 
 .principal{
     background-color: #ccc;
+    padding: 20px;
 }
 
 #banner{
@@ -34,4 +36,20 @@ em strong{
 
 .beneficios{
     background-color: white;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+.imagembeneficios{
+    width: 50%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15px;
 }
