@@ -166,12 +166,18 @@ td{
 .titulo-centralizado{
 	
 	text-align: center;
-	font-size: 2em;
+	font-size: 2.5em;
 	margin: 1em 0 1em;
+	font-family: 'Bebas Neue', sans-serif;
+
 }
 
 .principal p{
 	margin: 0 0 1em;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	text-align: justify;
+	
 }
 
 .principal strong{
